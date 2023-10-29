@@ -67,7 +67,7 @@
 				<td><%=lis.getIdproductocl2() %></td>
 				<td><%=lis.getNombrecl2() %></td>
 				<td><%=lis.getPrecioventacl2() %></td>
-				<td><%=lis.getDescripcl2() %></td>
+				<td><%=lis.getPreciocompracl2() %></td>
 				<td><%=lis.getEstadocl2() %></td>
 				<td><%=lis.getDescripcl2() %></td>
 			</tr>
